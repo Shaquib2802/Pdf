@@ -7,9 +7,9 @@ import Pdf3 from './Component/Pdf/Pdf3';
 const App = () => {
   return (
     <div>
-    {/* <Pdf1/> */}
+    <Pdf1/>
     {/* <Pdf2/> */}
-    <Pdf3/>
+  {/*   <Pdf3/> */}
     </div>
   )
 }
